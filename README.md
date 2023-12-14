@@ -1,9 +1,8 @@
 # $bin
 
-
 ## Hello this is a open source project telegram botnet!
 
-
+<img src="./avatars/girl.jpg">
 
 ## Function botnet :
 > Register or authorize acc
